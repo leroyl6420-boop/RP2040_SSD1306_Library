@@ -32,3 +32,9 @@ Remember to put the two files from the Library folder in this repo into your pro
 # USE
 
 Start with: 
+
+![Writing text example](image5.png)
+
+ssd1306_text works by (x, y, "text"). Remember, 0, 0 is the top-left of the screen. 
+
+

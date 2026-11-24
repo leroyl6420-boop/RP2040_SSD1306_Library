@@ -5,7 +5,7 @@ This tutorial is for Waveshare RP2040 Zero's and their clones, but it should app
 
 Pick an I2C pair from this diagram, both I2C1 and I2C0 are fine:
 
-![Pinout Diagram for Waveshare RP2040 Zero](Assets/image.png)
+![Pinout Diagram for Waveshare RP2040 Zero](Assets/900px-RP2040-Zero-details-7.jpg)
 
 For this guide, I'm using GPIO 8 for SDA and GPIO 9 for SCL, making an I2C0 pair. 
 

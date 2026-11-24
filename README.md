@@ -47,4 +47,9 @@ And define:
 
 ![thing to define](Assets/image7.png)
 
+Display by:
+
+![stuff :P](Assets/image8.png)
+
+"Text" is supposed to be written as "text", and the variable in this example is i. 
 

@@ -18,3 +18,13 @@ In your code, include:
 and in your main:
 
 ![Pins you need to define and initialize](Assets/image2.png)
+
+In your CMakeLists.txt file, make sure that add_executable includes:
+
+![ssd1306.cpp in add_executable](Assets/image3.png)
+
+and that your target_link_libraries has:
+
+![hardware_i2c in target_link_libraries](Assets/image4.png)
+
+

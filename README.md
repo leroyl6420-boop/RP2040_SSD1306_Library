@@ -37,4 +37,14 @@ Start with:
 
 ssd1306_text works by (x, y, "text"). Remember, 0, 0 is the top-left of the screen. 
 
+# DISPLAYING VARIABLES
+
+Include:
+
+![thing to include](Assets/image6.png)
+
+And define:
+
+![thing to define](Assets/image7.png)
+
 

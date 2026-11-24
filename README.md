@@ -27,4 +27,4 @@ and that your target_link_libraries has:
 
 ![hardware_i2c in target_link_libraries](Assets/image4.png)
 
-
+Remember to put the two files from the Library folder in this repo into your project folder!

@@ -11,6 +11,10 @@ For this guide, I'm using GPIO 8 for SDA and GPIO 9 for SCL, making an I2C0 pair
 
 # SETTING THINGS UP IN YOUR CODE
 
-In your code, add:
+In your code, include:
 
 ![#include's you need to add](Assets/image1.png)
+
+and in your main:
+
+![Pins you need to define and initialize](Assets/image2.png)
